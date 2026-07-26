@@ -1,2 +1,3 @@
-# loja-veloz-cloud-devops
-Projeto Devops UniFecaf
+# Loja Veloz - Microservice Template
+
+Template base para os microsserviços.
