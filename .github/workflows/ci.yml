@@ -26,3 +26,6 @@ jobs:
 
       - name: Compilar e executar testes
         run: mvn clean verify
+
+      - name: Construir imagem Docker
+        run: docker build -t loja-veloz/pedidos-service:ci .
